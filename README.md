@@ -14,7 +14,6 @@ Once installed, in your python script:
 
 ```
 from canarysync import updateCanary
-
 ```
 
 ## Using the CLI command
