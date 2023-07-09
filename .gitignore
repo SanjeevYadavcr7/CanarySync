@@ -1,0 +1,4 @@
+dist/
+synccanary.egg-info/
+build/lib/synccanary/
+
